@@ -111,7 +111,6 @@ def app():
         st.session_state.doc_list = []
 
 
-    # llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", api_key='AIzaSyAqw9OFBpgtK0f4EHf3cUtZIk2vGeG4HV4')
     # To open GitHub Copilot Chat:
     # Windows/Linux: Ctrl + Shift + I
     # Mac: Cmd + Shift + I

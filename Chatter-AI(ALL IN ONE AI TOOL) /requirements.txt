@@ -1,0 +1,10 @@
+Python
+Streamlit
+LangChain
+Google Gemini
+FAISS
+YouTube Transcript API
+BeautifulSoup4
+PyPDF
+Requests
+python-dotenv
